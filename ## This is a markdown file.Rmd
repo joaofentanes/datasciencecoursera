@@ -1,0 +1,14 @@
+---
+title: "HelloWorld.md"
+author: "João Machado"
+date: "07/02/2023"
+output:
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
